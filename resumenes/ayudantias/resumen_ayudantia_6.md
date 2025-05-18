@@ -10,6 +10,9 @@ Esta ayudantía se enfoca en el uso de tablas de propiedades termodinámicas y l
 
 ### 1.1 Tipos de Tablas Termodinámicas
 
+![Ejemplo de tabla de propiedades termodinámicas](../imagenes/tablas_propiedades_1.jpeg)
+*Figura 1: Ejemplo de tablas de propiedades para sustancias puras*
+
 ```
 ┌─────────────────────────────┐
 │ TABLAS DE PROPIEDADES       │
@@ -98,6 +101,9 @@ Donde:
 - Mejor aproximación a bajas presiones y altas temperaturas
 - Se vuelve inexacta cerca del punto crítico
 - No predice cambios de fase
+
+![Factor de compresibilidad para distintos gases](../imagenes/factor_compresibilidad.jpeg)
+*Figura 2: Factor de compresibilidad que muestra la desviación del comportamiento ideal*
 
 ### 2.2 Propiedades de Gases Ideales
 

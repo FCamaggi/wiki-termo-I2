@@ -37,6 +37,9 @@ Esta ayudantía se centra en las sustancias puras, cambios de fase y el uso de d
 
 ### 1.2 Fases y Cambios de Fase
 
+![Cambios de fase incluyendo el estado sólido](../imagenes/cambio_fase_solido_contraccion.jpeg)
+*Figura 1: Diagrama mostrando los cambios de fase para una sustancia que se contrae al solidificarse*
+
 ```
                      Sublimación
                    ↗           ↘
@@ -56,6 +59,9 @@ Esta ayudantía se centra en las sustancias puras, cambios de fase y el uso de d
 ## 2. Diagramas de Fase
 
 ### 2.1 Diagrama P-v
+
+![Diagrama P-v de una sustancia pura](../imagenes/diagrama_PV_sustancia_pura_1.jpeg)
+*Figura 1: Diagrama P-v mostrando las diferentes regiones y el punto crítico*
 
 ```
 P
@@ -77,6 +83,9 @@ P
 - Por encima del punto crítico no hay distinción entre fases líquida y gaseosa
 
 ### 2.2 Diagrama T-v
+
+![Diagrama T-v para una sustancia pura](../imagenes/diagrama_TV_punto_critico.jpeg)
+*Figura 2: Diagrama T-v mostrando las curvas de saturación y el punto crítico*
 
 ```
 T

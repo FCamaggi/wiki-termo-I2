@@ -10,74 +10,74 @@ Es muy probable que existen diversos errores.
 
 ## Índice general
 
-|     | Prefacio<br>I         |                                                     |          |     |     |     |     |     |     |     |     |     |
-| --- | --------------------- | --------------------------------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.  |                       | Introducción y Ley cero de la termodinámica.        | 2        |     |     |     |     |     |     |     |     |     |
-|     | 1.1.                  | Introducción<br>                                    | 2        |     |     |     |     |     |     |     |     |     |
-|     | 1.2.                  | Definiciones e ideas fundamentales:<br>             | 2        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.2.1.<br>Sistema y su entorno<br>                  | 2        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.2.2.<br>Medio Continuo<br>                        | 4        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.2.3.<br>Estado y proceso Termodinamico<br>        | 4        |     |     |     |     |     |     |     |     |     |
-|     | 1.3.                  | Presión<br>                                         | 5        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.3.1.<br>Manómetro<br>                             | 7        |     |     |     |     |     |     |     |     |     |
-|     | 1.4.                  | Temperatura y Ley cero<br>                          | 7        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.4.1.<br>Ley cero de termodinámica<br>             | 8        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.4.2.<br>Temperatura<br>                           | 8        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.4.3.<br>Termómetro de gas a Volumen constante<br> | 8        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.4.4.<br>Escala Celsius y Kelvin<br>               | 9        |     |     |     |     |     |     |     |     |     |
-|     | 1.5.                  | Expansión termica de solidos y liquidos<br>         | 9        |     |     |     |     |     |     |     |     |     |
-|     |                       | 1.5.1.<br>Comportamiento anómalo del agua<br>       | 10       |     |     |     |     |     |     |     |     |     |
-|     | 1.6.                  | Ejemplos Resueltos<br>                              | 10       |     |     |     |     |     |     |     |     |     |
-| 2.  | Energía y Calor<br>14 |                                                     |          |     |     |     |     |     |     |     |     |     |
-|     | 2.1.                  | Formas de energía<br>                               | 14       |     |     |     |     |     |     |     |     |     |
-|     |                       | 2.1.1.<br>Energía Mecánica<br>                      | 15       |     |     |     |     |     |     |     |     |     |
-|     | 2.2.                  | Transferencia de energía<br>                        | 15       |     |     |     |     |     |     |     |     |     |
-|     | 2.3.                  | Transferencia de energía por calor<br>              | 16       |     |     |     |     |     |     |     |     |     |
-|     |                       | 2.3.1.<br>Mecanismos de transferencia de calor<br>  | 17       |     |     |     |     |     |     |     |     |     |
-|     | 2.4.                  | Forma Mecánica del trabajo<br>                      | 19       |     |     |     |     |     |     |     |     |     |
-|     |                       | 2.4.1.<br>Trabajo del Resorte<br>                   | 19       |     |     |     |     |     |     |     |     |     |
-|     |                       | 2.4.2.<br>Trabajo de Flecha<br>                     | 19       |     |     |     |     |     |     |     |     |     |
-|     | 2.5.                  | Transferencia de energía por trabajo<br>            | 20       |     |     |     |     |     |     |     |     |     |
-|     | 2.6.                  | Primera Ley de Termodinámica<br>                    |          |     |     |     |     |     |     |     |     |     |
-|     | 2.7.                  | Ejemplos<br>                                        | 21<br>23 |     |     |     |     |     |     |     |     |     |
-|     | 2.8.                  | Problemas propuestos<br>                            | 27       |     |     |     |     |     |     |     |     |     |
+|     | Prefacio I         |                                              |       |     |     |     |     |     |     |     |     |     |
+| --- | ------------------ | -------------------------------------------- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1.  |                    | Introducción y Ley cero de la termodinámica. | 2     |     |     |     |     |     |     |     |     |     |
+|     | 1.1.               | Introducción                                 | 2     |     |     |     |     |     |     |     |     |     |
+|     | 1.2.               | Definiciones e ideas fundamentales:          | 2     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.2.1. Sistema y su entorno                  | 2     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.2.2. Medio Continuo                        | 4     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.2.3. Estado y proceso Termodinamico        | 4     |     |     |     |     |     |     |     |     |     |
+|     | 1.3.               | Presión                                      | 5     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.3.1. Manómetro                             | 7     |     |     |     |     |     |     |     |     |     |
+|     | 1.4.               | Temperatura y Ley cero                       | 7     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.4.1. Ley cero de termodinámica             | 8     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.4.2. Temperatura                           | 8     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.4.3. Termómetro de gas a Volumen constante | 8     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.4.4. Escala Celsius y Kelvin               | 9     |     |     |     |     |     |     |     |     |     |
+|     | 1.5.               | Expansión termica de solidos y liquidos      | 9     |     |     |     |     |     |     |     |     |     |
+|     |                    | 1.5.1. Comportamiento anómalo del agua       | 10    |     |     |     |     |     |     |     |     |     |
+|     | 1.6.               | Ejemplos Resueltos                           | 10    |     |     |     |     |     |     |     |     |     |
+| 2.  | Energía y Calor 14 |                                              |       |     |     |     |     |     |     |     |     |     |
+|     | 2.1.               | Formas de energía                            | 14    |     |     |     |     |     |     |     |     |     |
+|     |                    | 2.1.1. Energía Mecánica                      | 15    |     |     |     |     |     |     |     |     |     |
+|     | 2.2.               | Transferencia de energía                     | 15    |     |     |     |     |     |     |     |     |     |
+|     | 2.3.               | Transferencia de energía por calor           | 16    |     |     |     |     |     |     |     |     |     |
+|     |                    | 2.3.1. Mecanismos de transferencia de calor  | 17    |     |     |     |     |     |     |     |     |     |
+|     | 2.4.               | Forma Mecánica del trabajo                   | 19    |     |     |     |     |     |     |     |     |     |
+|     |                    | 2.4.1. Trabajo del Resorte                   | 19    |     |     |     |     |     |     |     |     |     |
+|     |                    | 2.4.2. Trabajo de Flecha                     | 19    |     |     |     |     |     |     |     |     |     |
+|     | 2.5.               | Transferencia de energía por trabajo         | 20    |     |     |     |     |     |     |     |     |     |
+|     | 2.6.               | Primera Ley de Termodinámica                 |       |     |     |     |     |     |     |     |     |     |
+|     | 2.7.               | Ejemplos                                     | 21 23 |     |     |     |     |     |     |     |     |     |
+|     | 2.8.               | Problemas propuestos                         | 27    |     |     |     |     |     |     |     |     |     |
 
-| 3.  | Sustancias puras                |                                                                      |          |     |     |     |     |     |     |     |     |     |
-| --- | ------------------------------- | -------------------------------------------------------------------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | 3.1.                            | Tipos de sustancias<br>                                              | 28       |     |     |     |     |     |     |     |     |     |
-|     | 3.2.                            | Fases de una Sustancia Pura<br>                                      | 28       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.2.1.<br>Cambios de Fase en sustancias puras.<br>                   | 28       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.2.2.<br>Diagrama<br>T-ν<br>                                        | 29       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.2.3.<br>Diagrama<br>P−v<br>                                        | 31       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.2.4.<br>Incluyendo Solidos<br>                                     | 31       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.2.5.<br>La superficie P-V-T<br>                                    | 32       |     |     |     |     |     |     |     |     |     |
-|     | 3.3.                            | Tablas de Propiedades<br>                                            | 33       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.3.1.<br>Estados de liquido Saturado y Vapor Saturado<br>           | 34       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.3.2.<br>Mezcla de liquido-gas saturado<br>                         | 36       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 3.3.3.<br>Vapor Sobrecalentado<br>                                   | 40       |     |     |     |     |     |     |     |     |     |
-|     | 3.4.                            | Liquido Comprimido<br>                                               | 41       |     |     |     |     |     |     |     |     |     |
-|     | 3.5.                            | Sustancias y gases ideales<br>                                       | 41       |     |     |     |     |     |     |     |     |     |
-| 4.  |                                 | Analisis de energias de sistemas cerrados                            | 46       |     |     |     |     |     |     |     |     |     |
-|     | 4.1.                            | Trabajo hecho por una frontera móvil<br>                             | 46       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 4.1.1.<br>Proceso Politropico<br>                                    | 47       |     |     |     |     |     |     |     |     |     |
-|     | 4.2.                            | Balance de energía de sistema cerrado.<br>                           | 48       |     |     |     |     |     |     |     |     |     |
-|     | 4.3.                            | Calores Especificos<br>                                              | 50       |     |     |     |     |     |     |     |     |     |
-|     | 4.4.                            | Energía interna, Entalpía y calores especificos de gases ideales<br> |          |     |     |     |     |     |     |     |     |     |
-|     |                                 | 4.4.1.<br>Relaciones de calores específicos de gases ideales<br>     | 52<br>53 |     |     |     |     |     |     |     |     |     |
-|     |                                 | 4.4.2.<br>Primera Ley de termodinámica: Procesos y Ciclos<br>        | 54       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 4.4.3.<br>Proceso adiabatico en gases ideales<br>                    | 55       |     |     |     |     |     |     |     |     |     |
-|     |                                 |                                                                      |          |     |     |     |     |     |     |     |     |     |
-| 5.  | Masa y volumen de control<br>58 |                                                                      |          |     |     |     |     |     |     |     |     |     |
-|     | 5.1.                            | Conservación de la masa<br>                                          | 58       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 5.1.1.<br>Flujo de masa<br>                                          | 58       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 5.1.2.<br>Aplicacion al volumen de control<br>                       | 60       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 5.1.3.<br>Balance de masa en proceso estacionario<br>                | 61       |     |     |     |     |     |     |     |     |     |
-|     | 5.2.                            | Energía y trabajo de un fluido fluyendo<br>                          |          |     |     |     |     |     |     |     |     |     |
-|     |                                 | 5.2.1.<br>Flujo de Trabajo<br>                                       | 61       |     |     |     |     |     |     |     |     |     |
-|     |                                 | 5.2.2.<br>Flujo de energía total de un fluido<br>                    | 62       |     |     |     |     |     |     |     |     |     |
-|     | 5.3.                            | Análisis de energía de un sistema con flujo constante.<br>           |          |     |     |     |     |     |     |     |     |     |
-|     |                                 | 5.3.1.<br>Algunas maquinas de flujo estacionario<br>                 |          |     |     |     |     |     |     |     |     |     |
-|     | 5.4.                            | Análisis de energía de un flujo transiente<br>                       | 64<br>67 |     |     |     |     |     |     |     |     |     |
+| 3.  | Sustancias puras             |                                                                  |       |     |     |     |     |     |     |     |     |     |
+| --- | ---------------------------- | ---------------------------------------------------------------- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     | 3.1.                         | Tipos de sustancias                                              | 28    |     |     |     |     |     |     |     |     |     |
+|     | 3.2.                         | Fases de una Sustancia Pura                                      | 28    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.2.1. Cambios de Fase en sustancias puras.                      | 28    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.2.2. Diagrama T-ν                                              | 29    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.2.3. Diagrama P−v                                              | 31    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.2.4. Incluyendo Solidos                                        | 31    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.2.5. La superficie P-V-T                                       | 32    |     |     |     |     |     |     |     |     |     |
+|     | 3.3.                         | Tablas de Propiedades                                            | 33    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.3.1. Estados de liquido Saturado y Vapor Saturado              | 34    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.3.2. Mezcla de liquido-gas saturado                            | 36    |     |     |     |     |     |     |     |     |     |
+|     |                              | 3.3.3. Vapor Sobrecalentado                                      | 40    |     |     |     |     |     |     |     |     |     |
+|     | 3.4.                         | Liquido Comprimido                                               | 41    |     |     |     |     |     |     |     |     |     |
+|     | 3.5.                         | Sustancias y gases ideales                                       | 41    |     |     |     |     |     |     |     |     |     |
+| 4.  |                              | Analisis de energias de sistemas cerrados                        | 46    |     |     |     |     |     |     |     |     |     |
+|     | 4.1.                         | Trabajo hecho por una frontera móvil                             | 46    |     |     |     |     |     |     |     |     |     |
+|     |                              | 4.1.1. Proceso Politropico                                       | 47    |     |     |     |     |     |     |     |     |     |
+|     | 4.2.                         | Balance de energía de sistema cerrado.                           | 48    |     |     |     |     |     |     |     |     |     |
+|     | 4.3.                         | Calores Especificos                                              | 50    |     |     |     |     |     |     |     |     |     |
+|     | 4.4.                         | Energía interna, Entalpía y calores especificos de gases ideales |       |     |     |     |     |     |     |     |     |     |
+|     |                              | 4.4.1. Relaciones de calores específicos de gases ideales        | 52 53 |     |     |     |     |     |     |     |     |     |
+|     |                              | 4.4.2. Primera Ley de termodinámica: Procesos y Ciclos           | 54    |     |     |     |     |     |     |     |     |     |
+|     |                              | 4.4.3. Proceso adiabatico en gases ideales                       | 55    |     |     |     |     |     |     |     |     |     |
+|     |                              |                                                                  |       |     |     |     |     |     |     |     |     |     |
+| 5.  | Masa y volumen de control 58 |                                                                  |       |     |     |     |     |     |     |     |     |     |
+|     | 5.1.                         | Conservación de la masa                                          | 58    |     |     |     |     |     |     |     |     |     |
+|     |                              | 5.1.1. Flujo de masa                                             | 58    |     |     |     |     |     |     |     |     |     |
+|     |                              | 5.1.2. Aplicacion al volumen de control                          | 60    |     |     |     |     |     |     |     |     |     |
+|     |                              | 5.1.3. Balance de masa en proceso estacionario                   | 61    |     |     |     |     |     |     |     |     |     |
+|     | 5.2.                         | Energía y trabajo de un fluido fluyendo                          |       |     |     |     |     |     |     |     |     |     |
+|     |                              | 5.2.1. Flujo de Trabajo                                          | 61    |     |     |     |     |     |     |     |     |     |
+|     |                              | 5.2.2. Flujo de energía total de un fluido                       | 62    |     |     |     |     |     |     |     |     |     |
+|     | 5.3.                         | Análisis de energía de un sistema con flujo constante.           |       |     |     |     |     |     |     |     |     |     |
+|     |                              | 5.3.1. Algunas maquinas de flujo estacionario                    |       |     |     |     |     |     |     |     |     |     |
+|     | 5.4.                         | Análisis de energía de un flujo transiente                       | 64 67 |     |     |     |     |     |     |     |     |     |
 
 ## <span id="page-5-0"></span>Capítulo 1
 
@@ -107,7 +107,7 @@ En este curso, vamos a generalizar estas ideas. Para esto, debemos hacer algunas
 
 ### <span id="page-5-3"></span>1.2.1. Sistema y su entorno
 
-Cuando estudiamos energía mecánica era muy importante identificar que factores afectan a nuestro objeto de estudio. Por ejemplo, si se tiene un carro en una monta˜na rusa, debiamos considerar la energía potencial gravitacional y la energía cinetica del carro, pero tambien debiamos considerar el rol que jugaba el roce en el carro. Es decir, el carro interactuaba con los rieles a través del roce y el roce hacía un trabajo sobre el carro.
+Cuando estudiamos energía mecánica era muy importante identificar que factores afectan a nuestro objeto de estudio. Por ejemplo, si se tiene un carro en una montaña rusa, debiamos considerar la energía potencial gravitacional y la energía cinetica del carro, pero tambien debiamos considerar el rol que jugaba el roce en el carro. Es decir, el carro interactuaba con los rieles a través del roce y el roce hacía un trabajo sobre el carro.
 
 Definiremos el sistema como la cantidad de materia o region del espacio que queremos estudiar. La masa o region fuera del sistema es el entorno.
 
@@ -125,8 +125,8 @@ Una propiedad de la energía es que dependen del sistema. Es por esto que defini
 
 Las propiedades de un sistemas son, por ejemplo, presión, masa, temperatura. Diremos que una propiedad es
 
-- intensiva si no depende de la masa o tama˜no del sistema. Ejemplos de variables intensivas son temperatura, presión o densidad.
-- extensiva si es que depende del tama˜no del sistema. Por ejemplo la masa total o volumen total.
+- intensiva si no depende de la masa o tamaño del sistema. Ejemplos de variables intensivas son temperatura, presión o densidad.
+- extensiva si es que depende del tamaño del sistema. Por ejemplo la masa total o volumen total.
 
 Una manera fácil de determinar si es una propiedad intensiva o extensiva es dividir el sistema en dos. Si la propiedad cambió, entonces es una propiedad extensiva, en cambio si se mantiene igual es una propiedad intensiva. En la figura [1.2](#page-7-2) se ve un ejemplo
 
@@ -303,7 +303,7 @@ Muchas veces, en los procesos termodinámicos lo que nos interesa son los cambio
 
 ## <span id="page-12-1"></span>1.5. Expansión termica de solidos y liquidos
 
-En la vida cotidiana hemos experimentado que los objetos, al cambiar su temperatura, cambia su tama˜no.
+En la vida cotidiana hemos experimentado que los objetos, al cambiar su temperatura, cambia su tamaño.
 
 Supongamos un objeto de largo L<sup>i</sup> suficientemente largo para que se pueda considerar unidimensional. Entonces, al aplicar un cambio de temperatura (∆T) se espera que el largo cambie (∆L). Definiremos el coeficiente de expansión lineal como:
 
@@ -315,7 +315,7 @@ $$
 \Delta L = L_f - L_i = \alpha L_i \Delta T \tag{1.23}
 $$
 
-para cambios de temperatura peque˜nos, α es constante.
+para cambios de temperatura pequeños, α es constante.
 
 Ahora supongamos un volumen, entonces al aumentar/disminuir la temperatura se espera que el volumen aumente/disminuya. Entonces considerando que el volumen corresponde al
 
@@ -325,7 +325,7 @@ producto de los lados:
 
 $$\begin{aligned} \Delta V + V_i &= (l + \Delta l)(h + \Delta h)(w + \Delta w) \\ &= lwh(1 + \alpha \Delta T)^3 \\ &= V_i \left[1 + 3\alpha \Delta T + \mathcal{O}(\alpha^2 \Delta T^2)\right] \end{aligned}$$
 
-donde hemos llamado l : largo, h : altura y w : profundidad. Dado que asumimos cambios de temperatura peque˜nos, podemos escribir:
+donde hemos llamado l : largo, h : altura y w : profundidad. Dado que asumimos cambios de temperatura pequeños, podemos escribir:
 
 $$
 \Delta V = (3\alpha) V_i \Delta T \tag{1.24}
@@ -538,7 +538,7 @@ Por lo tanto, de aquí se puede obtener la potencia máxima ideal: W˙ max = ˙m
 
 ## <span id="page-18-1"></span>2.2. Transferencia de energía
 
-Hemos visto que en un sistema cerrado el intercambio de energía ocurre mediante trabajo y calor, tal como se muestra en la figura [2.1](#page-19-1) Veamos que relación hay entre trabajo y calor. Supongamos que estamos disparando balas con nuestro ca˜nón, con cada disparo el ca˜nón se calienta al punto que se vuelve inservible. Esto conduce a pensar en que hay una relación entre las fuerzas mecánicas y el calor.
+Hemos visto que en un sistema cerrado el intercambio de energía ocurre mediante trabajo y calor, tal como se muestra en la figura [2.1](#page-19-1) Veamos que relación hay entre trabajo y calor. Supongamos que estamos disparando balas con nuestro cañón, con cada disparo el cañón se calienta al punto que se vuelve inservible. Esto conduce a pensar en que hay una relación entre las fuerzas mecánicas y el calor.
 
 ![](_page_19_Figure_0.jpeg)
 
@@ -1020,7 +1020,7 @@ Diremos que una sustancia es pura si tiene una composición química fija. No es
 
 ## <span id="page-31-2"></span>3.2. Fases de una Sustancia Pura
 
-Los solidos poseen enlaces moleculares mas fuertes, esto conduce a que las moleculas esten muy cerca una de otra. Sin embargo, las moléculas en los sólidos aún tienen capacidad de oscilar con respecto a su posición de equilibrio. En líquidos, el espaciamiento de las moléculas es similar al de los sólidos, pero se pueden mover con mucho mayor libertad. Por otro lado, las moléculas de los gases están mucho mas separadas y se mueven de manera azarosa con colisiones entre si. Sus fuerzas moleculares son muy peque˜nas, particularmente a bajas densidades, y las colisiones son el único modo de interacción entre las moléculas. En la fase gaseosa las moléculas tienen un nivel de energía considerablemente mayor que en la líquida o la sólida; por lo tanto, para que un gas se condense o congele debe liberar antes una gran cantidad de su energía.
+Los solidos poseen enlaces moleculares mas fuertes, esto conduce a que las moleculas esten muy cerca una de otra. Sin embargo, las moléculas en los sólidos aún tienen capacidad de oscilar con respecto a su posición de equilibrio. En líquidos, el espaciamiento de las moléculas es similar al de los sólidos, pero se pueden mover con mucho mayor libertad. Por otro lado, las moléculas de los gases están mucho mas separadas y se mueven de manera azarosa con colisiones entre si. Sus fuerzas moleculares son muy pequeñas, particularmente a bajas densidades, y las colisiones son el único modo de interacción entre las moléculas. En la fase gaseosa las moléculas tienen un nivel de energía considerablemente mayor que en la líquida o la sólida; por lo tanto, para que un gas se condense o congele debe liberar antes una gran cantidad de su energía.
 
 #### <span id="page-31-3"></span>3.2.1. Cambios de Fase en sustancias puras.
 
@@ -1054,15 +1054,13 @@ Hemos visto que las temperaturas y presión de saturación depende una de otra, 
 
 Figura 3.2: Curva de saturación de liquido-vapor para el agua PsatvsTsat
 
-Santiago el agua hierve a menos temperatura que en Vi˜na del Mar.
+Santiago el agua hierve a menos temperatura que en Viña del Mar.
 
 <span id="page-33-1"></span>Entonces, si consideramos una sustancia pura podemos realizar un gráfico de temperatura vs volumen (especifico) con distintas curvas según sea la presión. Esto se puede ver en el gráfico de la figura [3.3](#page-33-1)
 
 ![](_page_33_Figure_5.jpeg)
 
-Figura 3.3: Diagrama T-v sobre el comportamiento de una sustancia pura a presión cons-
-
-tante TV_presion
+Figura 3.3: Diagrama T-v sobre el comportamiento de una sustancia pura a presión constante TV_presion
 
 Del grafico en la figura [3.3,](#page-33-1) podemos ver que a medida que aumenta la presión las curvas se va haciendo mas suaves. Es decir, a mayor presión el calor latente se hace cada vez menor. Llamaremos punto critico al punto en que los estados de liquido saturado y vapor saturado son iguales. En particular, la temperatura, presión y volumen especifico de una sustancia en un punto critico son llamados temperatura critica, presión critica y volumen especifico critico.
 
@@ -1136,20 +1134,20 @@ La entalpia jugara un rol importante al estudiar sistemas que generan potencia o
 
 <span id="page-37-1"></span>Ahora estudiaremos las tablas de liquido saturado y vapor saturado para el agua. las tablas del apendice A-4 y A-5 entregan la misma información. La diferencia es que en A-4 vemos las propiedades del agua bajo temperatura dada y en A-5 bajo presión dada. En la figura [3.9](#page-37-1) se puede ver una versión parcial de la tabla A-4. Aquí se pueden ver los siguientes volumenes
 
-| Sat.                    |               |     | Specific volume<br>m3/kg                     |           |     |     |     |
-| ----------------------- | ------------- | --- | -------------------------------------------- | --------- | --- | --- | --- |
-| Temp. press.            |               |     | Sat.                                         | Sat.      |     |     |     |
-| 0C                      | kPa           |     | liquid                                       | vapor     |     |     |     |
-| T                       | Psat          |     | yf                                           | Ve        |     |     |     |
-| 85                      | 57.868        |     | 0.001032                                     | 2.8261    |     |     |     |
-| 90                      | 70.183        |     | 0.001036                                     | 2.3593    |     |     |     |
-| ਹੇਤ                     | 84.609        |     | 0.001040                                     | 1.9808    |     |     |     |
-|                         |               |     |                                              |           |     |     |     |
-| Specific<br>temperature |               |     | Specific<br>volume of<br>saturated<br>liquid |           |     |     |     |
-|                         | Corresponding |     |                                              | Specific  |     |     |     |
-|                         | saturation    |     |                                              | volume of |     |     |     |
-|                         | pressure      |     |                                              | saturated |     |     |     |
-|                         |               |     |                                              | vapor     |     |     |     |
+| Sat.                 |               |     | Specific volume m3/kg               |           |     |     |     |
+| -------------------- | ------------- | --- | ----------------------------------- | --------- | --- | --- | --- |
+| Temp. press.         |               |     | Sat.                                | Sat.      |     |     |     |
+| 0C                   | kPa           |     | liquid                              | vapor     |     |     |     |
+| T                    | Psat          |     | yf                                  | Ve        |     |     |     |
+| 85                   | 57.868        |     | 0.001032                            | 2.8261    |     |     |     |
+| 90                   | 70.183        |     | 0.001036                            | 2.3593    |     |     |     |
+| ਹੇਤ                  | 84.609        |     | 0.001040                            | 1.9808    |     |     |     |
+|                      |               |     |                                     |           |     |     |     |
+| Specific temperature |               |     | Specific volume of saturated liquid |           |     |     |     |
+|                      | Corresponding |     |                                     | Specific  |     |     |     |
+|                      | saturation    |     |                                     | volume of |     |     |     |
+|                      | pressure      |     |                                     | saturated |     |     |     |
+|                      |               |     |                                     | vapor     |     |     |     |
 
 Figura 3.9: Tabla parcial de A-4 Tabla_Agua_Psat
 
@@ -1339,29 +1337,29 @@ La region que esta a la derecha de la linea de vapor saturado y por sobre del pu
 
 <span id="page-43-1"></span>
 
-| TABLE A-6 |                        |        |        |         |         |                           |        |         |        |                           |        |                |     |
-| --------- | ---------------------- | ------ | ------ | ------- | ------- | ------------------------- | ------ | ------- | ------ | ------------------------- | ------ | -------------- | --- |
-|           | Superheated water      |        |        |         |         |                           |        |         |        |                           |        |                |     |
-| T         | V                      | U      | h      | S       | V       | U                         | h      | S       | V      | U                         | h      | S              |     |
-| °C        | m3/kg                  | kJ/kg  | kJ/kg  | kJ/kg·K | m3/kg   | kJ/kg                     | kJ/kg  | kJ/kg.K | m3/kg  | kJ/kg                     | kJ/kg  | kJ/kg.K        |     |
-|           | = 0.01 MPa (45.81°C)\* |        |        |         |         | P =<br>0.05 MPa (81.32°C) |        |         |        | = 0.10 MPa (99.61°C)<br>P |        |                |     |
-| Sat. T    | 14.670                 | 2437.2 | 2583.9 | 8.1488  | 3.2403  | 2483.2                    | 2645.2 | 7.5931  | 1.6941 | 2505.6                    | 2675.0 | 7.3589         |     |
-| 50        | 14.867                 | 2443.3 | 2592.0 | 8.1741  |         |                           |        |         |        |                           |        |                |     |
-| 100       | 17.196                 | 2515.5 | 2687.5 | 8.4489  | 3.4187  | 2511.5                    | 2682.4 | 7.6953  | 1.6959 | 2506.2                    | 2675.8 | 7.3611         |     |
-| 150       | 19.513                 | 2587.9 | 2783.0 | 8.6893  | 3.8897  | 2585.7                    | 2780.2 | 7.9413  | 1.9367 | 2582.9                    | 2776.6 | 7.6148         |     |
-| 200       | 21.826                 | 2661.4 | 2879.6 | 8.9049  | 4.3562  | 2660.0                    | 2877.8 | 8.1592  | 2.1724 | 2658.2                    | 2875.5 | 7.8356         |     |
-| 250       | 24.136                 | 2736.1 | 2977 5 | 9.1015  | 4.8206  | 2735.1                    | 2976.2 | 8.3568  | 2.4062 | 2733.9                    | 2974.5 | 8.0346         |     |
-| 300       | 26.446                 | 2812.3 | 3076.7 | 9.2827  | 5.2841  | 2811.6                    | 3075.8 | 8.5387  | 2.6389 | 2810.7                    | 3074.5 | 8.2172         |     |
-| 400       | 31.063                 | 2969 3 | 3280.0 | 9.6094  | 6.2094  | 2968.9                    | 3279.3 | 8.8659  | 3.1027 | 2968.3                    | 3278.6 | 8.5452         |     |
-| 500       | 35.680                 | 3132.9 | 3489.7 | 9.8998  | 7.1338  | 3132.6                    | 3489.3 | 9.1566  | 3.5655 | 3132.2                    | 3488.7 | 8.8362         |     |
-| 600       | 40.296                 | 3303 3 | 3706.3 | 10.1631 | 8.0577  | 3303.1                    | 3706.0 | 9 4201  | 4.0279 | 3302 8                    | 3705.6 | 9 0999         |     |
-| 700       | 44.911                 | 3480.8 | 3929.9 | 10.4056 | 8.9813  | 3480.6                    | 3929.7 | 9.6626  | 4.4900 | 3480.4                    | 3929.4 | 9.3424         |     |
-| 800       | 49 527                 | 3665 4 | 4160.6 | 10.6312 | 9 9047  | 3665.2                    | 4160.4 | 9,8883  | 4 9519 | 3665.0                    | 4160.2 | 9 5682         |     |
-| 900       | 54.143                 | 3856.9 | 4398.3 | 10.8429 | 10.8280 | 3856.8                    | 4398.2 | 10.1000 | 5.4137 | 3856.7                    | 4398.0 | 9.7800         |     |
-| 1000      | 58.758                 | 4055.3 | 4642.8 | 11.0429 | 11.7513 | 4055.2                    | 4642.7 | 10.3000 | 5.8755 | 4055.0                    | 4642 6 | 9.9800         |     |
-| 1100      | 63.373                 | 4260.0 | 4893.8 | 11.2326 | 12.6745 | 4259.9                    | 4893.7 | 10.4897 | 6.3372 | 4259.8                    |        | 4893.6 10.1698 |     |
-| 1200      | 67 989                 | 4470.9 | 5150.8 | 11.4132 | 13.5977 | 4470.8                    | 5150.7 | 10.6704 | 6.7988 | 4470.7                    |        | 5150.6 10.3504 |     |
-| 1300      | 72.604                 | 4687.4 | 5413.4 | 11.5857 | 14.5209 | 4687.3                    | 5413.3 | 10.8429 | 7.2605 | 4687.2                    |        | 5413.3 10.5229 |     |
+| TABLE A-6 |                        |        |        |         |         |                        |        |         |        |                        |        |                |     |
+| --------- | ---------------------- | ------ | ------ | ------- | ------- | ---------------------- | ------ | ------- | ------ | ---------------------- | ------ | -------------- | --- |
+|           | Superheated water      |        |        |         |         |                        |        |         |        |                        |        |                |     |
+| T         | V                      | U      | h      | S       | V       | U                      | h      | S       | V      | U                      | h      | S              |     |
+| °C        | m3/kg                  | kJ/kg  | kJ/kg  | kJ/kg·K | m3/kg   | kJ/kg                  | kJ/kg  | kJ/kg.K | m3/kg  | kJ/kg                  | kJ/kg  | kJ/kg.K        |     |
+|           | = 0.01 MPa (45.81°C)\* |        |        |         |         | P = 0.05 MPa (81.32°C) |        |         |        | = 0.10 MPa (99.61°C) P |        |                |     |
+| Sat. T    | 14.670                 | 2437.2 | 2583.9 | 8.1488  | 3.2403  | 2483.2                 | 2645.2 | 7.5931  | 1.6941 | 2505.6                 | 2675.0 | 7.3589         |     |
+| 50        | 14.867                 | 2443.3 | 2592.0 | 8.1741  |         |                        |        |         |        |                        |        |                |     |
+| 100       | 17.196                 | 2515.5 | 2687.5 | 8.4489  | 3.4187  | 2511.5                 | 2682.4 | 7.6953  | 1.6959 | 2506.2                 | 2675.8 | 7.3611         |     |
+| 150       | 19.513                 | 2587.9 | 2783.0 | 8.6893  | 3.8897  | 2585.7                 | 2780.2 | 7.9413  | 1.9367 | 2582.9                 | 2776.6 | 7.6148         |     |
+| 200       | 21.826                 | 2661.4 | 2879.6 | 8.9049  | 4.3562  | 2660.0                 | 2877.8 | 8.1592  | 2.1724 | 2658.2                 | 2875.5 | 7.8356         |     |
+| 250       | 24.136                 | 2736.1 | 2977 5 | 9.1015  | 4.8206  | 2735.1                 | 2976.2 | 8.3568  | 2.4062 | 2733.9                 | 2974.5 | 8.0346         |     |
+| 300       | 26.446                 | 2812.3 | 3076.7 | 9.2827  | 5.2841  | 2811.6                 | 3075.8 | 8.5387  | 2.6389 | 2810.7                 | 3074.5 | 8.2172         |     |
+| 400       | 31.063                 | 2969 3 | 3280.0 | 9.6094  | 6.2094  | 2968.9                 | 3279.3 | 8.8659  | 3.1027 | 2968.3                 | 3278.6 | 8.5452         |     |
+| 500       | 35.680                 | 3132.9 | 3489.7 | 9.8998  | 7.1338  | 3132.6                 | 3489.3 | 9.1566  | 3.5655 | 3132.2                 | 3488.7 | 8.8362         |     |
+| 600       | 40.296                 | 3303 3 | 3706.3 | 10.1631 | 8.0577  | 3303.1                 | 3706.0 | 9 4201  | 4.0279 | 3302 8                 | 3705.6 | 9 0999         |     |
+| 700       | 44.911                 | 3480.8 | 3929.9 | 10.4056 | 8.9813  | 3480.6                 | 3929.7 | 9.6626  | 4.4900 | 3480.4                 | 3929.4 | 9.3424         |     |
+| 800       | 49 527                 | 3665 4 | 4160.6 | 10.6312 | 9 9047  | 3665.2                 | 4160.4 | 9,8883  | 4 9519 | 3665.0                 | 4160.2 | 9 5682         |     |
+| 900       | 54.143                 | 3856.9 | 4398.3 | 10.8429 | 10.8280 | 3856.8                 | 4398.2 | 10.1000 | 5.4137 | 3856.7                 | 4398.0 | 9.7800         |     |
+| 1000      | 58.758                 | 4055.3 | 4642.8 | 11.0429 | 11.7513 | 4055.2                 | 4642.7 | 10.3000 | 5.8755 | 4055.0                 | 4642 6 | 9.9800         |     |
+| 1100      | 63.373                 | 4260.0 | 4893.8 | 11.2326 | 12.6745 | 4259.9                 | 4893.7 | 10.4897 | 6.3372 | 4259.8                 |        | 4893.6 10.1698 |     |
+| 1200      | 67 989                 | 4470.9 | 5150.8 | 11.4132 | 13.5977 | 4470.8                 | 5150.7 | 10.6704 | 6.7988 | 4470.7                 |        | 5150.6 10.3504 |     |
+| 1300      | 72.604                 | 4687.4 | 5413.4 | 11.5857 | 14.5209 | 4687.3                 | 5413.3 | 10.8429 | 7.2605 | 4687.2                 |        | 5413.3 10.5229 |     |
 
 Figura 3.13: Parte de la tabla A-6 para agua sobrecalentada tabla_A-6_ejemplo
 
@@ -1812,9 +1810,9 @@ $$
 \Delta u = \int_{1}^{2} c_v(T)dT,\ \text{y } \Delta h = \int_{1}^{2} c_p(T)dT. \tag{4.47}
 $$
 
-En la practica, estas integrales pueden ser complicadas de trabajar por lo que se han tabulado los valores de u y h para diversos gases en peque˜nos intervalos de temperatura. Para esto, hay que tomar un punto de referencia y se integra considerando el estado 1 como el de referencia. En las tablas de gas ideal, se elige el cero Kelvin como punto de referencia. Esto no influye en el calculo de ∆u o ∆h.
+En la practica, estas integrales pueden ser complicadas de trabajar por lo que se han tabulado los valores de u y h para diversos gases en pequeños intervalos de temperatura. Para esto, hay que tomar un punto de referencia y se integra considerando el estado 1 como el de referencia. En las tablas de gas ideal, se elige el cero Kelvin como punto de referencia. Esto no influye en el calculo de ∆u o ∆h.
 
-Es importante destacar que la variación de los calores especificos con respecto a al temperatura es lineal en intervalos peque˜nos de temperatura (algunos cientos de grados celsius) por lo que podemos considerar calores especificos promedios y asi obtener:
+Es importante destacar que la variación de los calores especificos con respecto a al temperatura es lineal en intervalos pequeños de temperatura (algunos cientos de grados celsius) por lo que podemos considerar calores especificos promedios y asi obtener:
 
 $$u_2 - u_1 = c_{v, \text{prom}}(T_2 - T_1), \ h_2 - h_1 = c_{p, \text{prom}}(T_2 - T_1) \tag{4.48}$$
 
@@ -1852,7 +1850,7 @@ $$d_u = c_v dT \Leftrightarrow u_2 - u_1 = \int_1^2 c(T)dT\tag{4.54}$$
 
 <span id="page-56-1"></span><sup>2</sup>Por supuesto, no son del todo incompresibles sino no se estudiaria dilatación termica. Con incompresible nos referimos a que el cambio de energía relacionada al volumen es despreciable con respecto a las otras formas de energía.
 
-y para intervalos peque˜nos de temperatura,
+y para intervalos pequeños de temperatura,
 
 $$
 \Delta u = c_{\text{promedio}}(T_2 - T_1). \tag{4.55}
@@ -2277,7 +2275,7 @@ Hay que destacar, que el trabajo que significa empujar la masa hacia el VC esta 
 
 ![](_page_67_Figure_4.jpeg)
 
-Figura 5.6: En la figura superior hay una tobera y en la inferior un difusor. Ambos estan dise˜nados para cambiar la velocidad del fluido. tobera_difusor
+Figura 5.6: En la figura superior hay una tobera y en la inferior un difusor. Ambos estan diseñados para cambiar la velocidad del fluido. tobera_difusor
 
 En estos aparatos, la velocidad es muy alta por lo que Q˙ ≈ 0. Además, tampoco involucran trabajo W˙ = 0 y el cambio de energía potencial es insignificante. Sin embargo, tipicamente provocan cambios de velocidad por lo que la energía cinética no es irrelevante.
 
@@ -2297,7 +2295,7 @@ Compresor: Tambien tienen Q˙ = 0, a menos que intencionalmente se quiera enfria
 
 Este artefacto restringe el paso del fluido. No necesariamente mediante una llave. Esto causa una caida drastica de la presión que no involucra ningún tipo de trabajo. La caida de presion causa una caida de temperatura y es por esto que se utilizan en refrigeradores o aires acondicionados.
 
-Las valvulas de paso son peque˜nas por lo que
+Las valvulas de paso son pequeñas por lo que
 
 q ≈ 0 ya que no hay tiempo para que se produzca el intercambio de calor.
 
@@ -2310,7 +2308,7 @@ por lo tanto, la conservación de energía exige:
 
 $$h_1 \approx h_2\tag{5.33}$$
 
-donde 1 hace referencia a la entrada y 2 a la salida. Muchas veces, a estos aparatos se le llaman aparatos isoentalpicos. Notar que esto solo bajo la condicion de que sean peque˜nas.
+donde 1 hace referencia a la entrada y 2 a la salida. Muchas veces, a estos aparatos se le llaman aparatos isoentalpicos. Notar que esto solo bajo la condicion de que sean pequeñas.
 
 De h<sup>1</sup> = h2, usando la definicion de entalpía tendremos:
 
@@ -2438,7 +2436,7 @@ donde
 
 ## Ejemplos
 
-Ejemplo: Aire a 10◦C y 80 kPa entra a un difusor con velocidad 200m/s. El área de entrada al difusor es 0.4m<sup>2</sup> . El aire deja el difusor con una velocidad muy peque˜na en comparación con la velocidad de entrada. Determine:
+Ejemplo: Aire a 10◦C y 80 kPa entra a un difusor con velocidad 200m/s. El área de entrada al difusor es 0.4m<sup>2</sup> . El aire deja el difusor con una velocidad muy pequeña en comparación con la velocidad de entrada. Determine:
 
 - a) El flujo de masa de aire
 - b) La temperatura del aire saliendo del difusor

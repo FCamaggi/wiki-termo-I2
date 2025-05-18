@@ -27,6 +27,12 @@ Esta ayudantía constituye un repaso integral de los temas abordados en la segun
 
 ### 1.2 Diagramas de Fase
 
+![Diagrama T-v para una sustancia pura](../imagenes/diagrama_TV_punto_critico.jpeg)
+*Figura 1.1: Diagrama T-v para una sustancia pura mostrando el punto crítico y la curva de saturación*
+
+![Diagrama P-v para una sustancia pura](../imagenes/diagrama_PV_sustancia_pura_1.jpeg)
+*Figura 1.2: Diagrama P-v para una sustancia pura*
+
 | Diagrama | Características                | Utilidad                         |
 | -------- | ------------------------------ | -------------------------------- |
 | P-v      | Isotermas, curva de saturación | Análisis de trabajo y expansión  |
@@ -79,18 +85,24 @@ Esta ayudantía constituye un repaso integral de los temas abordados en la segun
 
 ### 2.2 Factor de Compresibilidad
 
+![Factor de compresibilidad para distintos gases](../imagenes/factor_compresibilidad.jpeg)
+*Figura 2: Gráfico del factor de compresibilidad para diferentes gases*
+
 ```
-    Z
-    │       T > Tc
-    │     ┌───────
-    │     │
-  1 │─ ─ ┼ ─ ─ ─ ─
-    │     │       T < Tc
-    │     │       │
-    │     │       │
+    Z = PV/RT
+    │
+    │         Z > 1
+    │       /
+  1 │-----/------
+    │     |
+    │     |
+    │     \
+    │      \ Z < 1
+    │       \
+    │        \
     │     └───────┘
     │
-    └───────────────── P
+    └───────────────── Pr
 ```
 
 - Z = PV/RT (mide desviación del comportamiento ideal)
@@ -119,6 +131,9 @@ Esta ayudantía constituye un repaso integral de los temas abordados en la segun
 ```
 
 ### 3.2 Procesos Termodinámicos
+
+![Diferentes procesos termodinámicos en un diagrama P-V](../imagenes/proceso_termodinamico.jpeg)
+*Figura 3: Representación de diferentes procesos termodinámicos en un diagrama P-V*
 
 | Proceso    | Característica | Ecuación           | Trabajo           |
 | ---------- | -------------- | ------------------ | ----------------- |

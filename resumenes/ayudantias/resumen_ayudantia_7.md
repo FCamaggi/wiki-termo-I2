@@ -10,6 +10,9 @@ Esta ayudantía se enfoca en la aplicación de la Primera Ley de la Termodinámi
 
 ### 1.1 Formulación y Significado
 
+![Sistema cerrado con transferencia de calor y trabajo](../imagenes/sistema_cerrado_calor_trabajo.jpeg)
+*Figura 1: Sistema cerrado donde solo se intercambia energía a través de calor y trabajo*
+
 ```
 ┌───────────────────────────────┐
 │ PRIMERA LEY DE TERMODINÁMICA  │
@@ -100,6 +103,9 @@ Donde:
 | Politrópico | -                  | PV^n = constante   | W = [P₁V₁-P₂V₂]/(1-n) |
 
 ### 3.2 Representación Gráfica
+
+![Proceso adiabático en un diagrama P-V](../imagenes/proceso_adiabatico.jpeg)
+*Figura 2: Representación de un proceso adiabático y su comparación con otros procesos*
 
 ```
     P
